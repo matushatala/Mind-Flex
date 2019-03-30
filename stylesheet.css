@@ -1,21 +1,21 @@
 /* Designed by Matus Hatala. Made in collaboration with Leonardo Almeida, Georgi Lazarov & Ervin Samsonov. */
 
 div {
-    font-family: "Colfax", sans-serif!important;
+    font-family: "Colfax", sans-serif !important;
 }
 
 .emotion {
-    -webkit-box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.06);
-	-moz-box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.06);
-	box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.06);
-	border-radius: 20px 20px 20px 20px;
-	-moz-border-radius: 20px 20px 20px 20px;
-	-webkit-border-radius: 20px 20px 20px 20px;
+    -webkit-box-shadow: 0px 2px 7px 0px rgba(0, 0, 0, 0.06);
+    -moz-box-shadow: 0px 2px 7px 0px rgba(0, 0, 0, 0.06);
+    box-shadow: 0px 2px 7px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
 }
 
 .emotion:hover {
-	transition: all .5s ease-in-out;
-	-webkit-box-shadow: 0px 3px 7px 0px rgba(0,0,0,0.10);
-	-moz-box-shadow: 0px 3px 7px 0px rgba(0,0,0,0.10);
-	box-shadow: 0px 3px 7px 0px rgba(0,0,0,0.10);
+    transition: all .5s ease-in-out;
+    -webkit-box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.10);
+    -moz-box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.10);
+    box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.10);
 }
