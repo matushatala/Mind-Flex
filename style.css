@@ -1,23 +1,5 @@
 /* Designed by Matus Hatala. Made in collaboration with Leonardo Almeida, Georgi Lazarov & Ervin Samsonov. */
 
-@font-face {
-    font-family: 'Colfax', sans-serif;
-    src: url('fonts/ColfaxBold.woff2') format('woff2'),
-        url('fonts/ColfaxBold.woff') format('woff'),
-        url('fonts/ColfaxBold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Colfax', sans-serif;
-    src: url('fonts/ColfaxRegular.woff2') format('woff2'),
-        url('fonts/ColfaxRegular.woff') format('woff'),
-        url('fonts/ColfaxRegular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
 div {
     font-family: "Colfax", sans-serif !important;
 }
