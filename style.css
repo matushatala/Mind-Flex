@@ -18,8 +18,8 @@
     font-style: normal;
 }
 
-div {
-    font-family: 'Colfax', sans-serif !important;
+* {
+    font-family: 'Colfax' !important;
 }
 
 .emotion {
