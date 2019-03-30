@@ -10,6 +10,25 @@ body {
     -ms-animation: fadein 0.6s;
     -o-animation: fadein 0.6s;
     animation: fadein 0.6s;
+    font-family: 'Colfax', sans-serif;
+}
+
+@font-face {
+    font-family: 'Colfax', sans-serif;
+    src: url('https://matushatala.github.io/Mind-Flex/fonts/Colfax-Bold.woff2') format('woff2'),
+        url('https://matushatala.github.io/Mind-Flex/fonts/Colfax-Bold.woff') format('woff'),
+        url('https://matushatala.github.io/Mind-Flex/fonts/Colfax-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Colfax', sans-serif;
+    src: url('https://matushatala.github.io/Mind-Flex/fonts/Colfax-Regular.woff2') format('woff2'),
+        url('https://matushatala.github.io/Mind-Flex/fonts/Colfax-Regular.woff') format('woff'),
+        url('https://matushatala.github.io/Mind-Flex/fonts/Colfax-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @keyframes fadein {
