@@ -20,7 +20,7 @@
     box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.10);
 }
 
-@media screen and (min-width: 415px) and (max-height: 667px) {
+@media screen and (min-width: 415px) and (max-height: 670px) {
     .mind-flex-screen {
         display: none !important;
     }
