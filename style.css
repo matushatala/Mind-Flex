@@ -25,3 +25,8 @@
         display: none !important;
     }
 }
+
+#time {
+    position: fixed;
+    transform: translateX(-50%);
+}
