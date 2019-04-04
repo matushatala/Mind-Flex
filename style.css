@@ -25,3 +25,9 @@
         display: none !important;
     }
 }
+
+@media screen and (max-height: 670px) {
+    .mobile-ui {
+        display: none !important;
+    }
+}
