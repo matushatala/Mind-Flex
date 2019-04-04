@@ -26,7 +26,7 @@
     }
 }
 
-@media screen and (max-height: 670px) {
+@media screen and (max-height: 560px) {
     .mobile-ui {
         display: none !important;
     }
